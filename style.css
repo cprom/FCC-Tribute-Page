@@ -1,0 +1,111 @@
+#title {
+text-align: center;
+background-color:#3A3B3E;
+padding: 50px;
+color: white;
+font-size: 24px;
+padding: 50px;
+}
+
+#title:hover {
+   text-transform: uppercase;
+    
+}
+
+#main {
+background-color: white;
+margin: 0;
+padding: 0;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#img-div {
+    margin-top: 50px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#tribute-info {
+    max-width: 700px;
+    margin:0 auto;
+    text-align: left;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-link {
+    background-color: #313235;
+    text-align: center;
+    color: white;
+ }
+#tribute-link:hover {
+    background-color: #8F9198;
+     color: black;
+}
+ .navbar {
+     overflow: hidden;
+     background: #313235;
+    
+ }
+
+ .navbar a{
+     display: block;
+     float: left;
+     padding: 10px;
+     text-align: center;
+     color: white;
+
+ }
+ .navbar a:hover {
+     background-color: #8F9198;
+     color: black;
+ }
+
+h2 {
+    text-align: center;
+}
+
+#movie-link {
+    color: black;
+}
+
+#movie-link:hover {
+    color: red;
+}
+
+#roundhouse-img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 138px;
+    width: 162px;
+    opacity: .8;
+}
+
+#roundhouse-img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    
+}
+
+footer {
+    border: #313235 solid;
+    padding: 60px;
+    background-color: #313235;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
